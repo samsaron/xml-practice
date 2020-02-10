@@ -26,3 +26,6 @@ SONG {
     padding: 0.5em;
     background-color: azure;
 }
+YEAR {
+    font-style: italic;
+}
