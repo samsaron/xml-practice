@@ -9,6 +9,7 @@ PLAYLIST {
      color: navy;
      font-size: 40px;
      background-color: lightblue;
+     font-weight: bold;
 }
  heading, TITLE, ARTIST, GENRE, YEAR, SONG {
      display: block;
