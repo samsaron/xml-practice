@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml_style.css"?>
+
+<PLAYLIST>
+   <heading><center>Cover Band Playlist</center></heading>
+   <SONG>
+       <ARTIST>Travis Scott</ARTIST>
+       <TITLE>RIP SCREW</TITLE>
+       <GENRE>Hip Hop</GENRE>
+       <YEAR>2018</YEAR> </SONG>
+   <SONG>
+       <ARTIST>Anuel AA</ARTIST>
+       <TITLE>Amanece</TITLE>
+       <GENRE>Reggaeton</GENRE>
+       <YEAR>2018</YEAR> </SONG>
+   <SONG>
+       <ARTIST>Chief Keef</ARTIST>
+       <TITLE>Valley</TITLE>
+       <GENRE>Trap</GENRE>
+       <YEAR>2014</YEAR> </SONG>
+   <SONG>
+       <ARTIST>Ed Sheeran</ARTIST>
+       <TITLE>The A Team</TITLE>
+       <GENRE>Pop-folk</GENRE>
+       <YEAR>2011</YEAR> </SONG>
+   <SONG>
+       <ARTIST>Post Malone</ARTIST>
+       <TITLE>I Fall Apart</TITLE>
+       <GENRE>Pop</GENRE>
+       <YEAR>2016</YEAR> </SONG>
+   <SONG>
+       <ARTIST>Afro B</ARTIST>
+       <TITLE>Drogba (Joanna)</TITLE>
+       <GENRE>Hip Hop</GENRE>
+       <YEAR>2018</YEAR> </SONG>
+   <SONG>
+       <ARTIST>Frank Ocean</ARTIST>
+       <TITLE>DHL</TITLE>
+       <GENRE>Hip Hop</GENRE>
+       <YEAR>2019</YEAR> </SONG>
+   <SONG>
+       <ARTIST>TLC</ARTIST>
+       <TITLE>No Scrubs</TITLE>
+       <GENRE>R and B</GENRE>
+       <YEAR>1999</YEAR> </SONG>
+   <SONG>
+       <ARTIST>Speaker Knockerz</ARTIST>
+       <TITLE>Lonely</TITLE>
+       <GENRE>Rap</GENRE>
+       <YEAR>2014</YEAR> </SONG>
+   <SONG>
+       <ARTIST>Felly</ARTIST>
+       <TITLE>Maple</TITLE>
+       <GENRE>Hip Hop</GENRE>
+       <YEAR>2018</YEAR> </SONG>
+</PLAYLIST>
